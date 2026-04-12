@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm aleph0</h1>
 <h3 align="left">A student learning to code</h3>
 
-- 🔭 I’m currently studing in **high school**
+- 🔭 Built a real-time hand gesture controller for macOS presentations using MediaPipe HandLandmarker & OpenCV
 
 - 🌱 I’m currently learning **C Programing language**
 
